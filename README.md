@@ -2,8 +2,6 @@ Source:
 
 https://drive.google.com/drive/folders/1EfKcgdBoXzmsrZOKpyTscNGeroWVW4uE?usp=sharing
 
-
-Require:
 quái thú Level 4 hoặc thấp hơn "Lightsworn"///
 trong số them ////
 ignoring the Summoning conditions///
@@ -41,8 +39,9 @@ của lá bài này activation///
 the first target///
 difference giữa///
 your trục xuất quái thú///
- they = chúng 
-if the
+ they = chúng ///
+if the///
+Warrior hoặc quái thú Spellcaster-Type
 khác quái thú
 was một
 The current controller
